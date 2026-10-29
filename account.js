@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (Trustly TopUp)
 // =======================================================
 var website_name = "Trustly";
 
